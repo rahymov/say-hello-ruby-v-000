@@ -2,4 +2,6 @@
 def say_hello(name)
   if name
     puts "Hello #{name}!"
+  else
+    puts "Hello Rubu Programmer!"
 end
